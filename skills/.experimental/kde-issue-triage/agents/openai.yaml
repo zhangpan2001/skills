@@ -1,0 +1,4 @@
+interface:
+  display_name: "KDE Issue Triage"
+  short_description: "Triage KDE issues (Dolphin/KIO/KConfig/KF/Qt) with actionable fixes"
+  default_prompt: "Help me triage this KDE issue, propose the smallest patch (no test changes) with non-regression notes, and give me a manual verification checklist that covers likely regression edge cases. I will request the commit message after confirming the fix."
